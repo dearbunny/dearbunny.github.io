@@ -3,7 +3,6 @@
 @import "helpers/variables";
 // 自定義變數
 @import "../node_modules/bootstrap/scss/bootstrap";
-@import "utils/variables";
 // 工具
 @import "utils/mixin";
 @import "utils/flex";
@@ -12,7 +11,7 @@
 @import "layout/forms";
 @import "layout/picks";
 @import "layout/title";
-// 本日精選
+// 頁面
 @import "pages/home";
 @import "pages/carts";
 @import "pages/checkout";
